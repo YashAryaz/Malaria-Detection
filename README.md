@@ -35,17 +35,5 @@ A Malaria Cell Image Classifier using AI-ML has the potential to impact healthca
 
 3. Quick Response
 
-...
 
-
-### **Link to Solution** ###   
-Hosted using Replit : https://malaria-detector.aryanchourey4.repl.co/   
-Link for Replit: https://replit.com/@aryanchourey4/Malaria-Detector?v=1   
-Updated Links : https://malaria-detector-2.aryanchourey4.repl.co/   
-https://replit.com/@aryanchourey4/Malaria-Detector-2?v=1   
-(H5 file is more than 25mb so couldn't upload it here. Check the Replit for it.)
-
-### **Demo Video** ### 
-
-https://user-images.githubusercontent.com/97457190/215355886-6dd10f9c-11d8-408e-9e7e-4aea0ebe31c1.mp4
 
