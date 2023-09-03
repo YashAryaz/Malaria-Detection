@@ -4,7 +4,7 @@
 Malaria is a mosquito-borne disease, claiming over 400,000 lives each year, mainly children under 5. By targeting the water bodies where mosquitoes lay eggs, the disease can be controlled or even eliminated completely. Explore more datasets to understand the problem well and come up with a solution to curb this in a sustainable manner.
 
 <br>
-<a href="http://malaria-detector-2.yasharya5.repl.co/">Replit</a>
+Hosted on <a href="http://malaria-detector-2.yasharya5.repl.co/">Replit</a>
 <hr>
 
 
